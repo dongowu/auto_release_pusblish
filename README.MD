@@ -8,5 +8,5 @@
  - 3、通过github action 完成对代码的部署
  - 4、配置一系列的secrect key
 
-目前只搭建go的基础api服务 后续基于模板action 完成 整个操作
+目前只搭建go的基础api服务 后续基于模板action 完成 整个操作流程
  
